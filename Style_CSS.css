@@ -1,3 +1,78 @@
 boby{
     font-family: 'Poppins', sans-serif;
 }
+
+.Orange-color{
+    color: orangered;
+}
+#border-added{
+    font-size: 60px;
+    margin-top: 150px;
+    margin-left: 30px;
+    padding-left: 10px;
+    border-left: 7px solid;
+    border-image: linear-gradient(green,tomato) ;
+    border-image-slice: 1;
+}
+#pera{
+    margin-left: 35px;
+    font-size: 20px;
+}
+.flexxi{
+    display: flex;
+}
+.Half{
+    width: 50%;
+    margin-left: 70px;
+}
+.Half img{
+    width: 60%;
+}
+.L-button{
+    text-decoration: none;
+    margin-left: 35px;
+    font-size: 20px;
+    background-image: linear-gradient(orangered,tomato);
+    font-weight: 700;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.MVG{
+    display: flex;
+    padding: 10px 80px 40px;
+}
+#Mission{
+    width: 25%;
+    margin: 20px;
+    margin-left: 70px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px;
+    background-color: salmon;
+}
+#Mission img{
+    width: 50%;
+}
+#Vission{
+    width: 25%;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px;
+    background-color: rgb(125, 139, 102); 
+}
+#Vission img{
+    width: 50%;
+}
+#Goals{
+    width: 25%;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px;
+    background-color: lightskyblue; 
+}
+#Goals img{
+    width: 50%;
+}
