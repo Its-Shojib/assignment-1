@@ -28,9 +28,8 @@ boby{
 .Half img{
     width: 60%;
 }
-.L-button{
+.Button{
     text-decoration: none;
-    margin-left: 35px;
     font-size: 20px;
     background-image: linear-gradient(orangered,tomato);
     font-weight: 700;
@@ -75,4 +74,65 @@ boby{
 }
 #Goals img{
     width: 50%;
+}
+.Dev-area{
+    background-image: url(Photos/shapes/shape-1.png);
+    margin-left: 200px;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 200px;
+}
+.Dev{
+    width: 60%;
+    padding-right: 100px;
+}
+.Dev img{
+    width: 75%;
+    margin-left: 100px;
+}
+
+.Global-area{
+    background-image: url(Photos/shapes/shape-1.png);
+    margin: 40px;
+    margin-right: 100px;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 200px;
+}
+.Global{
+    width: 50%;
+    margin-left: 70px;
+    padding: 50px;
+}
+.Global img{
+    width: 75%;
+    margin-left: 100px;
+}
+
+#Covid-19{
+    background-color:rgb(78, 78, 145);
+    color: white;
+    width: 50%;
+    margin: 20px;
+    margin-left: 300px;
+    text-align: center;
+    padding: 20px;
+    margin-right: 150px;
+    border-radius: 20px;  
+}
+#yes{
+    background-color: darkgreen;
+    border-radius: 10%;
+    color: white;
+}
+#no{
+    background-color: red;
+    border-radius: 10%;
+    color: white;
+}
+#Foot{
+    background-color: black;
+    height: 120px;
+    color:cornflowerblue;
+    text-align: center;
 }
